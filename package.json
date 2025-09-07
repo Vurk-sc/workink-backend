@@ -1,1 +1,16 @@
-
+{
+  "name": "workink-backend",
+  "version": "1.0.0",
+  "description": "Backend API for work.ink key validation",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18"
+  },
+  "type": "module"
+}
